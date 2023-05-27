@@ -23,13 +23,12 @@
 </head>
 <body>
     <header>
-        <h1>Vai ser uma imagem aqui</h1>
+        <img src="" alt="">
         <ul>
             <li>Escola</li>
             <li>Estudante</li>
         </ul>
     </header>
-
 </body>
 </html>header {
     background-color: #424E61;
